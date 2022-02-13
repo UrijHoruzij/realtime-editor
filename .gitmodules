@@ -1,0 +1,6 @@
+[submodule "realtime-editor-server"]
+	path = realtime-editor-server
+	url = https://github.com/UrijHoruzij/realtime-editor-server.git
+[submodule "realtime-editor-client"]
+	path = realtime-editor-client
+	url = https://github.com/UrijHoruzij/realtime-editor-client.git
